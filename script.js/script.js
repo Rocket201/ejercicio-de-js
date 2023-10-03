@@ -1,3 +1,6 @@
+//Alejandro González-Corroto Fernández
+//https://github.com/Rocket201/ejercicio-de-js.git
+
 function pnumero(){
 
    n1 = prompt("ingresa un numero");

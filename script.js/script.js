@@ -11,6 +11,6 @@ function pnumero(){
     alert(n1+"es positivo")
     console.log(n1+"es un número positivo")
    }else if (n1 == 0){alert("Es igual a 0")}
-   else if(n1<0){alert("tu numero es negativo")}
+   else {alert("tu numero es negativo")}
    
 }
